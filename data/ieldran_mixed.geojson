@@ -1,0 +1,2147 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.54054116,52.89425 ]
+    },
+    "properties": {
+    "cemetery":"Sedgeford",
+    "historic_county":"Norfolk",
+    "type":"Mixed Cemetery",
+    "cremation_burials":2,
+    "inhumation_burials":7,
+    "date_range":"5th c",
+    "citation":"Ingleby 1917; Clarke 1939",
+    "museum":"Unknown Location"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.18989597,52.068608 ]
+    },
+    "properties": {
+    "cemetery":"Great Chesterford",
+    "historic_county":"Essex",
+    "type":"Majority Inhumation Cemetery",
+    "cremation_burials":38,
+    "inhumation_burials":167,
+    "date_range":"5th c",
+    "citation":"Evison 1994; Inskip 2008",
+    "museum":"University of Southhampton"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.42088593,53.59864 ]
+    },
+    "properties": {
+    "cemetery":"Elsham Wold",
+    "historic_county":"Lincolnshire",
+    "type":"Majority Cremation Cemetery",
+    "cremation_burials":630,
+    "inhumation_burials":4,
+    "date_range":"5th to 6th c",
+    "citation":"Unpublished",
+    "museum":"Unknown Location"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.0077341,52.920201 ]
+    },
+    "properties": {
+    "cemetery":"Field Dalling",
+    "historic_county":"Norfolk",
+    "type":"Majority Cremation Cemetery",
+    "cremation_burials":47,
+    "inhumation_burials":2,
+    "date_range":"5th to 6th c",
+    "citation":"Unpublished",
+    "museum":"Unknown Location"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.95166334,52.730065 ]
+    },
+    "properties": {
+    "cemetery":"Beetley Quarry",
+    "historic_county":"Norfolk",
+    "type":"Majority Cremation Cemetery",
+    "cremation_burials":16,
+    "inhumation_burials":1,
+    "date_range":"5th to 6th c",
+    "citation":"Unger 2008",
+    "museum":"Unknown Location"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.71379029,52.403808 ]
+    },
+    "properties": {
+    "cemetery":"Kettering I",
+    "historic_county":"Northamptonshire",
+    "type":"Majority Cremation Cemetery",
+    "cremation_burials":100,
+    "inhumation_burials":12,
+    "date_range":"5th to 6th c",
+    "citation":"Bull 1904",
+    "museum":"Unknown Location"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.60242407,52.686094 ]
+    },
+    "properties": {
+    "cemetery":"Narford",
+    "historic_county":"Norfolk",
+    "type":"Mixed Cemetery",
+    "cremation_burials":4,
+    "inhumation_burials":1,
+    "date_range":"5th to 6th c",
+    "citation":"Camden 1789",
+    "museum":"Unknown Location"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.4538026,52.485344 ]
+    },
+    "properties": {
+    "cemetery":"Broome",
+    "historic_county":"Norfolk",
+    "type":"Mixed Cemetery",
+    "cremation_burials":3,
+    "inhumation_burials":1,
+    "date_range":"5th to 6th c",
+    "citation":"Chester 1859; Clarke 1941",
+    "museum":"Unknown Location"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.19590423,50.885439 ]
+    },
+    "properties": {
+    "cemetery":"Saddlescombe",
+    "historic_county":"Sussex",
+    "type":"Majority Cremation Cemetery",
+    "cremation_burials":3,
+    "inhumation_burials":1,
+    "date_range":"5th to 6th c",
+    "citation":"Toms 1915",
+    "museum":"Unknown Location"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.8828251,51.702428 ]
+    },
+    "properties": {
+    "cemetery":"Bledlow Cop",
+    "historic_county":"Buckinghamshire",
+    "type":"Majority Cremation Cemetery",
+    "cremation_burials":5,
+    "inhumation_burials":2,
+    "date_range":"5th to 6th c",
+    "citation":"Head 1938;  Farley 1992",
+    "museum":"Buckinghamshire County Museum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.8755569,52.211154 ]
+    },
+    "properties": {
+    "cemetery":"Alcester",
+    "historic_county":"Warwickshire",
+    "type":"Mixed Cemetery",
+    "cremation_burials":2,
+    "inhumation_burials":1,
+    "date_range":"5th to 6th c",
+    "citation":"Read and Smith 1904",
+    "museum":"Unknown Location"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.4902962,52.370148 ]
+    },
+    "properties": {
+    "cemetery":"Baginton",
+    "historic_county":"Warwickshire",
+    "type":"Mixed Cemetery",
+    "cremation_burials":40,
+    "inhumation_burials":20,
+    "date_range":"5th to 6th c",
+    "citation":"Leeds 1935",
+    "museum":"Unknown Location"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.082047801,52.227922 ]
+    },
+    "properties": {
+    "cemetery":"Girton",
+    "historic_county":"Cambridgeshire",
+    "type":"Majority Cremation Cemetery",
+    "cremation_burials":150,
+    "inhumation_burials":80,
+    "date_range":"5th to 6th c",
+    "citation":"Hollingworth and O'Reilly 1925; Lethbridge 1938",
+    "museum":"Unknown Location"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.9420483,51.458402 ]
+    },
+    "properties": {
+    "cemetery":"Earley",
+    "historic_county":"Berkshire",
+    "type":"Mixed Cemetery",
+    "cremation_burials":8,
+    "inhumation_burials":5,
+    "date_range":"5th to 6th c",
+    "citation":"Stevens 1894",
+    "museum":"Unknown Location"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.87383958,52.237316 ]
+    },
+    "properties": {
+    "cemetery":"St Andrew's Hospital",
+    "historic_county":"Northamptonshire",
+    "type":"Mixed Cemetery",
+    "cremation_burials":3,
+    "inhumation_burials":2,
+    "date_range":"5th to 6th c",
+    "citation":"Smith 1902; Brown 1915",
+    "museum":"Unknown Location"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.39778319,53.049064 ]
+    },
+    "properties": {
+    "cemetery":"Ruskington",
+    "historic_county":"Lincolnshire",
+    "type":"Majority Inhumation Cemetery",
+    "cremation_burials":3,
+    "inhumation_burials":2,
+    "date_range":"5th to 6th c",
+    "citation":"Trollope 1872",
+    "museum":"Unknown Location"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.97929049,51.14311 ]
+    },
+    "properties": {
+    "cemetery":"Alton",
+    "historic_county":"Hampshire",
+    "type":"Mixed Cemetery",
+    "cremation_burials":30,
+    "inhumation_burials":25,
+    "date_range":"5th to 6th c",
+    "citation":"Evison 1988",
+    "museum":"Unknown Location"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.82432916,52.448114 ]
+    },
+    "properties": {
+    "cemetery":"Desborough II",
+    "historic_county":"Northamptonshire",
+    "type":"Mixed Cemetery",
+    "cremation_burials":2,
+    "inhumation_burials":2,
+    "date_range":"5th to 6th c",
+    "citation":"Baker 1880",
+    "museum":"Unknown Location"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.1354927,52.637791 ]
+    },
+    "properties": {
+    "cemetery":"Leicester",
+    "historic_county":"Leicestershire",
+    "type":"Mixed Cemetery",
+    "cremation_burials":2,
+    "inhumation_burials":2,
+    "date_range":"5th to 6th c",
+    "citation":"Cottrill 1946",
+    "museum":"Unknown Location"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.6342852,53.635424 ]
+    },
+    "properties": {
+    "cemetery":"Burton-Stather",
+    "historic_county":"Lincolnshire",
+    "type":"Mixed Cemetery",
+    "cremation_burials":2,
+    "inhumation_burials":2,
+    "date_range":"5th to 6th c",
+    "citation":"Dudley and Walshaw 1931",
+    "museum":"Unknown Location"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.06416744,52.1581 ]
+    },
+    "properties": {
+    "cemetery":"Haslingfield",
+    "historic_county":"Cambridgeshire",
+    "type":"Mixed Cemetery",
+    "cremation_burials":2,
+    "inhumation_burials":2,
+    "date_range":"5th to 6th c",
+    "citation":"Fox 1923; Lethbridge 1938",
+    "museum":"Unknown Location"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.9049684,52.341002 ]
+    },
+    "properties": {
+    "cemetery":"Brixworth I",
+    "historic_county":"Northamptonshire",
+    "type":"Mixed Cemetery",
+    "cremation_burials":2,
+    "inhumation_burials":2,
+    "date_range":"5th to 6th c",
+    "citation":"George 1904",
+    "museum":"Northants Museum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.90948151,52.336548 ]
+    },
+    "properties": {
+    "cemetery":"Brixworth II",
+    "historic_county":"Northamptonshire",
+    "type":"Mixed Cemetery",
+    "cremation_burials":2,
+    "inhumation_burials":2,
+    "date_range":"5th to 6th c",
+    "citation":"George 1904",
+    "museum":"Northants Museum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.4593072,52.861755 ]
+    },
+    "properties": {
+    "cemetery":"Swarkeston",
+    "historic_county":"Derbyshire",
+    "type":"Mixed Cemetery",
+    "cremation_burials":2,
+    "inhumation_burials":2,
+    "date_range":"5th to 6th c",
+    "citation":"Posnansky 1955",
+    "museum":"Unknown Location"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.44573505,50.897127 ]
+    },
+    "properties": {
+    "cemetery":"Sullington Hill",
+    "historic_county":"Sussex",
+    "type":"Mixed Cemetery",
+    "cremation_burials":2,
+    "inhumation_burials":2,
+    "date_range":"5th to 6th c",
+    "citation":"Unpublished",
+    "museum":"Unknown Location"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.2457834,51.978648 ]
+    },
+    "properties": {
+    "cemetery":"Souldern",
+    "historic_county":"Oxfordshire",
+    "type":"Mixed Cemetery",
+    "cremation_burials":3,
+    "inhumation_burials":3,
+    "date_range":"5th to 6th c",
+    "citation":"Salzman 1939",
+    "museum":"Unknown Location"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.3269655,52.092344 ]
+    },
+    "properties": {
+    "cemetery":"Bromeswell",
+    "historic_county":"Suffolk",
+    "type":"Mixed Cemetery",
+    "cremation_burials":18,
+    "inhumation_burials":19,
+    "date_range":"5th to 6th c",
+    "citation":"Carver 2005; Fern (in prep)",
+    "museum":"Unknown Location"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1337098,51.372784 ]
+    },
+    "properties": {
+    "cemetery":"Beddington",
+    "historic_county":"Surrey",
+    "type":"Mixed Cemetery",
+    "cremation_burials":10,
+    "inhumation_burials":13,
+    "date_range":"5th to 6th c",
+    "citation":"Addy 1874",
+    "museum":"Unknown Location"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.3681457,51.662881 ]
+    },
+    "properties": {
+    "cemetery":"Frilford I",
+    "historic_county":"Berkshire",
+    "type":"Mixed Cemetery",
+    "cremation_burials":10,
+    "inhumation_burials":13,
+    "date_range":"5th to 6th c",
+    "citation":"Akerman 1867; Rolleston 1869; 1880; Peake 1913; Brown 1915",
+    "museum":"Unknown Location"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.28187707,52.098336 ]
+    },
+    "properties": {
+    "cemetery":"Linton A",
+    "historic_county":"Cambridgeshire",
+    "type":"Mixed Cemetery",
+    "cremation_burials":2,
+    "inhumation_burials":3,
+    "date_range":"5th to 6th c",
+    "citation":"Lethbridge 1938",
+    "museum":"Unknown Location"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.82196244,52.426513 ]
+    },
+    "properties": {
+    "cemetery":"Rothwell",
+    "historic_county":"Northamptonshire",
+    "type":"Mixed Cemetery",
+    "cremation_burials":1,
+    "inhumation_burials":2,
+    "date_range":"5th to 6th c",
+    "citation":"Hief 1915-1916",
+    "museum":"Unknown Location"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.43158121,54.002385 ]
+    },
+    "properties": {
+    "cemetery":"Driffield III",
+    "historic_county":"Yorkshire",
+    "type":"Mixed Cemetery",
+    "cremation_burials":1,
+    "inhumation_burials":2,
+    "date_range":"5th to 6th c",
+    "citation":"Mortimer 1905",
+    "museum":"Unknown Location"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.044140397,52.454274 ]
+    },
+    "properties": {
+    "cemetery":"Chatteris",
+    "historic_county":"Cambridgeshire",
+    "type":"Majority Inhumation Cemetery",
+    "cremation_burials":1,
+    "inhumation_burials":2,
+    "date_range":"5th to 6th c",
+    "citation":"Peckover 1879",
+    "museum":"Unknown Location"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.16085887,52.338056 ]
+    },
+    "properties": {
+    "cemetery":"Hartford",
+    "historic_county":"Huntingdonshire",
+    "type":"Mixed Cemetery",
+    "cremation_burials":2,
+    "inhumation_burials":4,
+    "date_range":"5th to 6th c",
+    "citation":"Wyatt 1870; Smith 1926",
+    "museum":"Unknown Location"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.6971515,52.190153 ]
+    },
+    "properties": {
+    "cemetery":"Alveston Manor Hotel",
+    "historic_county":"Warwickshire",
+    "type":"Mixed Cemetery",
+    "cremation_burials":38,
+    "inhumation_burials":77,
+    "date_range":"5th to 6th c",
+    "citation":"Stirland (Forthcoming)",
+    "museum":"Unknown Location"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.8504463,51.842508 ]
+    },
+    "properties": {
+    "cemetery":"Burn Ground",
+    "historic_county":"Gloucestershire",
+    "type":"Majority Inhumation Cemetery",
+    "cremation_burials":4,
+    "inhumation_burials":10,
+    "date_range":"5th to 6th c",
+    "citation":"O'Neil and Grinsell 1960; Bishop and Bishop 1984",
+    "museum":"Unknown Location"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.10691717,51.387589 ]
+    },
+    "properties": {
+    "cemetery":"Orpington",
+    "historic_county":"Kent",
+    "type":"Mixed Cemetery",
+    "cremation_burials":19,
+    "inhumation_burials":52,
+    "date_range":"5th to 6th c",
+    "citation":"Tester 1968",
+    "museum":"Unknown Location"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.60178713,53.014778 ]
+    },
+    "properties": {
+    "cemetery":"Caythorpe",
+    "historic_county":"Lincolnshire",
+    "type":"Mixed Cemetery",
+    "cremation_burials":1,
+    "inhumation_burials":3,
+    "date_range":"5th to 6th c",
+    "citation":"Myres 1937",
+    "museum":"Unknown Location"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.3488412,50.682638 ]
+    },
+    "properties": {
+    "cemetery":"Bowcombe Down",
+    "historic_county":"Isle of Wight",
+    "type":"Majority Inhumation Cemetery",
+    "cremation_burials":9,
+    "inhumation_burials":27,
+    "date_range":"5th to 6th c",
+    "citation":"Hillier 1855; Wilkins et al 1860; Arnold 1982",
+    "museum":"Unknown Location"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.46780242,51.392916 ]
+    },
+    "properties": {
+    "cemetery":"Shepperton I",
+    "historic_county":"Middlesex",
+    "type":"Majority Inhumation Cemetery",
+    "cremation_burials":3,
+    "inhumation_burials":10,
+    "date_range":"5th to 6th c",
+    "citation":"Shurlock 1868; Vulliamy 1930",
+    "museum":"Unknown Location"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.2138655,51.638573 ]
+    },
+    "properties": {
+    "cemetery":"Longthorpe",
+    "historic_county":"Berkshire",
+    "type":"Majority Inhumation Cemetery",
+    "cremation_burials":47,
+    "inhumation_burials":189,
+    "date_range":"5th to 6th c",
+    "citation":"Akerman 1861; 1863",
+    "museum":"Unknown Location"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.32755513,53.512871 ]
+    },
+    "properties": {
+    "cemetery":"Fonaby",
+    "historic_county":"Lincolnshire",
+    "type":"Majority Inhumation Cemetery",
+    "cremation_burials":12,
+    "inhumation_burials":49,
+    "date_range":"5th to 6th c",
+    "citation":"Cook 1981",
+    "museum":"Unknown Location"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.7361297,52.030215 ]
+    },
+    "properties": {
+    "cemetery":"Blockley",
+    "historic_county":"Gloucestershire",
+    "type":"Mixed Cemetery",
+    "cremation_burials":1,
+    "inhumation_burials":5,
+    "date_range":"5th to 6th c",
+    "citation":"Barnard 1925",
+    "museum":"Unknown Location"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.7470729,52.887842 ]
+    },
+    "properties": {
+    "cemetery":"Woolsthorpe-by-Belvoir",
+    "historic_county":"Lincolnshire",
+    "type":"Mixed Cemetery",
+    "cremation_burials":2,
+    "inhumation_burials":10,
+    "date_range":"5th to 6th c",
+    "citation":"Hill 1907; Phillips 1934",
+    "museum":"Unknown Location"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.25111601,51.345819 ]
+    },
+    "properties": {
+    "cemetery":"Ewell House",
+    "historic_county":"Surrey",
+    "type":"Majority Inhumation Cemetery",
+    "cremation_burials":2,
+    "inhumation_burials":12,
+    "date_range":"5th to 6th c",
+    "citation":"Dunning 1932; Wheeler 1935",
+    "museum":"Unknown Location"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.4116191,54.005719 ]
+    },
+    "properties": {
+    "cemetery":"Cheesecake Hill",
+    "historic_county":"Yorkshire",
+    "type":"Majority Inhumation Cemetery",
+    "cremation_burials":3,
+    "inhumation_burials":24,
+    "date_range":"5th to 6th c",
+    "citation":"Akerman 1855",
+    "museum":"Unknown Location"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.097962951,51.368612 ]
+    },
+    "properties": {
+    "cemetery":"Croydon",
+    "historic_county":"Surrey",
+    "type":"Majority Inhumation Cemetery",
+    "cremation_burials":5,
+    "inhumation_burials":41,
+    "date_range":"5th to 6th c",
+    "citation":"Nielsen 1992; O'Sullivan 1996",
+    "museum":"Unknown Location"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.078355088,50.786444 ]
+    },
+    "properties": {
+    "cemetery":"Bishopstone",
+    "historic_county":"Sussex",
+    "type":"Majority Inhumation Cemetery",
+    "cremation_burials":6,
+    "inhumation_burials":112,
+    "date_range":"5th to 6th c",
+    "citation":"Meaney 1964",
+    "museum":"Unknown Location"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.213586,51.571134 ]
+    },
+    "properties": {
+    "cemetery":"Blewburton Hill",
+    "historic_county":"Berkshire",
+    "type":"Majority Inhumation Cemetery",
+    "cremation_burials":1,
+    "inhumation_burials":22,
+    "date_range":"5th to 6th c",
+    "citation":"Collins 1947; 1953; Collins and Collins 1959",
+    "museum":"Unknown Location"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.24333783,51.385056 ]
+    },
+    "properties": {
+    "cemetery":"Risely",
+    "historic_county":"Kent",
+    "type":"Mixed Cemetery",
+    "cremation_burials":5,
+    "inhumation_burials":114,
+    "date_range":"5th to 6th c",
+    "citation":"Cumberland 1938",
+    "museum":"Unknown Location"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.25177651,52.563314 ]
+    },
+    "properties": {
+    "cemetery":"Woodstone",
+    "historic_county":"Huntingdonshire",
+    "type":"Majority Inhumation Cemetery",
+    "cremation_burials":2,
+    "inhumation_burials":50,
+    "date_range":"5th to 6th c",
+    "citation":"Smith 1926",
+    "museum":"Unknown Location"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.0465841,52.017914 ]
+    },
+    "properties": {
+    "cemetery":"Beckford B",
+    "historic_county":"Worcestershire",
+    "type":"Majority Inhumation Cemetery",
+    "cremation_burials":4,
+    "inhumation_burials":120,
+    "date_range":"5th to 6th c",
+    "citation":"Evison and Hill 1996",
+    "museum":"Unknown Location"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.4382134,50.666016 ]
+    },
+    "properties": {
+    "cemetery":"Chessell Down",
+    "historic_county":"Isle of Wight",
+    "type":"Majority Inhumation Cemetery",
+    "cremation_burials":3,
+    "inhumation_burials":130,
+    "date_range":"5th to 6th c",
+    "citation":"Hillier 1855",
+    "museum":"Unknown Location"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.7646984,51.022335 ]
+    },
+    "properties": {
+    "cemetery":"Charlton Plantation",
+    "historic_county":"Wiltshire",
+    "type":"Majority Inhumation Cemetery",
+    "cremation_burials":1,
+    "inhumation_burials":46,
+    "date_range":"5th to 6th c",
+    "citation":"Davies 1985",
+    "museum":"Unknown Location"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.9383247,52.235216 ]
+    },
+    "properties": {
+    "cemetery":"Duston",
+    "historic_county":"Northamptonshire",
+    "type":"Majority Inhumation Cemetery",
+    "cremation_burials":2,
+    "inhumation_burials":100,
+    "date_range":"5th to 6th c",
+    "citation":"George 1904",
+    "museum":"Unknown Location"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.0384051,52.819539 ]
+    },
+    "properties": {
+    "cemetery":"Broughton Lodge",
+    "historic_county":"Nottinghamshire",
+    "type":"Majority Inhumation Cemetery",
+    "cremation_burials":1,
+    "inhumation_burials":120,
+    "date_range":"5th to 6th c",
+    "citation":"Kinsley 1993",
+    "museum":"Unknown Location"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.59657054,53.495657 ]
+    },
+    "properties": {
+    "cemetery":"Cleatham",
+    "historic_county":"Lincolnshire",
+    "type":"Majority Cremation Cemetery",
+    "cremation_burials":1204,
+    "inhumation_burials":62,
+    "date_range":"5th to 7th c",
+    "citation":"Trollope 1857; Leahy 2007",
+    "museum":"North Lincolnshire Museum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.49567536,52.117117 ]
+    },
+    "properties": {
+    "cemetery":"Kempston",
+    "historic_county":"Bedfordshire",
+    "type":"Mixed Cemetery",
+    "cremation_burials":150,
+    "inhumation_burials":50,
+    "date_range":"5th to 7th c",
+    "citation":"Wyatt 1857; Smith 1857",
+    "museum":"British Museum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.54220574,51.944168 ]
+    },
+    "properties": {
+    "cemetery":"Hick's Field",
+    "historic_county":"Bedfordshire",
+    "type":"Mixed Cemetery",
+    "cremation_burials":2,
+    "inhumation_burials":2,
+    "date_range":"5th to 7th c",
+    "citation":"Morris 1962; Kennet 1969",
+    "museum":"Unknown Location"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.0787879,52.944815 ]
+    },
+    "properties": {
+    "cemetery":"Holme Pierrepont",
+    "historic_county":"Nottinghamshire",
+    "type":"Mixed Cemetery",
+    "cremation_burials":30,
+    "inhumation_burials":60,
+    "date_range":"5th to 7th c",
+    "citation":"Skelton 1931",
+    "museum":"Unknown Location"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.45087329,50.827948 ]
+    },
+    "properties": {
+    "cemetery":"Highdown Hill",
+    "historic_county":"Sussex",
+    "type":"Majority Inhumation Cemetery",
+    "cremation_burials":30,
+    "inhumation_burials":190,
+    "date_range":"5th to 7th c",
+    "citation":"Read 1895; Griffith 1925; Welch 1983",
+    "museum":"Unknown Location"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.6500727,51.286414 ]
+    },
+    "properties": {
+    "cemetery":"Collingbourne Ducis",
+    "historic_county":"Wiltshire",
+    "type":"Majority Inhumation Cemetery",
+    "cremation_burials":13,
+    "inhumation_burials":114,
+    "date_range":"5th to 7th c",
+    "citation":"Gingell 1978; Stoodley and Schuster 2009",
+    "museum":"Unknown Location"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.6317313,52.311364 ]
+    },
+    "properties": {
+    "cemetery":"West Stow",
+    "historic_county":"Suffolk",
+    "type":"Majority Inhumation Cemetery",
+    "cremation_burials":1,
+    "inhumation_burials":100,
+    "date_range":"5th to 7th c",
+    "citation":"Alkerman 1855; West 1985",
+    "museum":"Unknown Location"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.44049662,53.681598 ]
+    },
+    "properties": {
+    "cemetery":"Castledyke",
+    "historic_county":"Lincolnshire",
+    "type":"Majority Inhumation Cemetery",
+    "cremation_burials":1,
+    "inhumation_burials":196,
+    "date_range":"5th to 7th c",
+    "citation":"Drinkall and Foreman 1998",
+    "museum":"Unknown Location"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.53892793,52.978062 ]
+    },
+    "properties": {
+    "cemetery":"Ancaster",
+    "historic_county":"Lincolnshire",
+    "type":"Majority Cremation Cemetery",
+    "cremation_burials":40,
+    "inhumation_burials":1,
+    "date_range":"5th to Early 6th c",
+    "citation":"Trollope 1870; Williams 2002",
+    "museum":"Unknown Location"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.2910661,51.26315 ]
+    },
+    "properties": {
+    "cemetery":"Ringlemere",
+    "historic_county":"Kent",
+    "type":"Majority Inhumation Cemetery",
+    "cremation_burials":12,
+    "inhumation_burials":39,
+    "date_range":"5th to Early 6th c",
+    "citation":"Corke 2004; Parfitt and Needham 2005; Parfitt and Needham 2007; Marzinzik 2011",
+    "museum":"Unknown Location"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.86657227,52.471365 ]
+    },
+    "properties": {
+    "cemetery":"Illington",
+    "historic_county":"Norfolk",
+    "type":"Majority Cremation Cemetery",
+    "cremation_burials":104,
+    "inhumation_burials":3,
+    "date_range":"5th to Early 7th c",
+    "citation":"Clarke 1957",
+    "museum":"Unknown Location"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.45216286,52.988651 ]
+    },
+    "properties": {
+    "cemetery":"Quarrington I",
+    "historic_county":"Lincolnshire",
+    "type":"Mixed Cemetery",
+    "cremation_burials":2,
+    "inhumation_burials":2,
+    "date_range":"5th to Early 7th c",
+    "citation":"Yerburgh 1825; Trollope 1872; Dickinson 2004",
+    "museum":"Unknown Location"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.32598334,52.551799 ]
+    },
+    "properties": {
+    "cemetery":"Alwalton",
+    "historic_county":"Huntingdonshire",
+    "type":"Mixed Cemetery",
+    "cremation_burials":30,
+    "inhumation_burials":34,
+    "date_range":"5th to Early 7th c",
+    "citation":"Gibson 2007",
+    "museum":"Peterborough Museum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.98229175,52.297639 ]
+    },
+    "properties": {
+    "cemetery":"Holdenby",
+    "historic_county":"Northamptonshire",
+    "type":"Mixed Cemetery",
+    "cremation_burials":3,
+    "inhumation_burials":25,
+    "date_range":"5th to Early 7th c",
+    "citation":"Hartshorne 1868",
+    "museum":"Unknown Location"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.391244,50.905885 ]
+    },
+    "properties": {
+    "cemetery":"St. Mary's Stadium",
+    "historic_county":"Hampshire",
+    "type":"Mixed Cemetery",
+    "cremation_burials":18,
+    "inhumation_burials":23,
+    "date_range":"5th to Late7th c",
+    "citation":"Unpublished",
+    "museum":"Unknown Location"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.29590819,52.566655 ]
+    },
+    "properties": {
+    "cemetery":"Long Wittenham",
+    "historic_county":"Northamptonshire",
+    "type":"Majority Inhumation Cemetery",
+    "cremation_burials":22,
+    "inhumation_burials":2,
+    "date_range":"6th c",
+    "citation":"Frere and St. Joseph 1974",
+    "museum":"Unknown Location"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.55208643,52.30412 ]
+    },
+    "properties": {
+    "cemetery":"Tuddenham",
+    "historic_county":"Suffolk",
+    "type":"Mixed Cemetery",
+    "cremation_burials":2,
+    "inhumation_burials":1,
+    "date_range":"6th c",
+    "citation":"Fox 1923",
+    "museum":"Unknown Location"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.99444296,54.575532 ]
+    },
+    "properties": {
+    "cemetery":"Saltburn-on-Sea",
+    "historic_county":"Yorkshire",
+    "type":"Mixed Cemetery",
+    "cremation_burials":20,
+    "inhumation_burials":30,
+    "date_range":"6th c",
+    "citation":"Hornsby 1913; Brown 1915",
+    "museum":"Unknown Location"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.9495956,51.756094 ]
+    },
+    "properties": {
+    "cemetery":"Tythrop House",
+    "historic_county":"Oxfordshire",
+    "type":"Mixed Cemetery",
+    "cremation_burials":2,
+    "inhumation_burials":10,
+    "date_range":"6th c",
+    "citation":"Lupton 1860; Head 1946",
+    "museum":"Unknown Location"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.4483299,51.727123 ]
+    },
+    "properties": {
+    "cemetery":"Brighthampton",
+    "historic_county":"Oxfordshire",
+    "type":"Majority Inhumation Cemetery",
+    "cremation_burials":11,
+    "inhumation_burials":70,
+    "date_range":"6th c",
+    "citation":"Akerman 1858; Akerman 1860; Atkinson and Kirk 1949",
+    "museum":"Unknown Location"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.31812077,51.499612 ]
+    },
+    "properties": {
+    "cemetery":"Stifford Clays",
+    "historic_county":"Essex",
+    "type":"Majority Inhumation Cemetery",
+    "cremation_burials":1,
+    "inhumation_burials":8,
+    "date_range":"6th c",
+    "citation":"Tyler 1996",
+    "museum":"Unknown Location"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.2103237,52.090801 ]
+    },
+    "properties": {
+    "cemetery":"Marston St Lawrence",
+    "historic_county":"Northamptonshire",
+    "type":"Majority Inhumation Cemetery",
+    "cremation_burials":3,
+    "inhumation_burials":32,
+    "date_range":"6th c",
+    "citation":"Dryden 1885",
+    "museum":"Unknown Location"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.58053566,51.233373 ]
+    },
+    "properties": {
+    "cemetery":"Guildown",
+    "historic_county":"Surrey",
+    "type":"Majority Inhumation Cemetery",
+    "cremation_burials":3,
+    "inhumation_burials":36,
+    "date_range":"6th c",
+    "citation":"Lowther 1931; Whimster 1931",
+    "museum":"Unknown Location"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.92201847,52.285649 ]
+    },
+    "properties": {
+    "cemetery":"Badwell Ash",
+    "historic_county":"Suffolk",
+    "type":"Mixed Cemetery",
+    "cremation_burials":2,
+    "inhumation_burials":30,
+    "date_range":"6th c",
+    "citation":"Farrer 1923",
+    "museum":"Unknown Location"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.6203659,52.787766 ]
+    },
+    "properties": {
+    "cemetery":"Stapenhill",
+    "historic_county":"Derbyshire",
+    "type":"Majority Inhumation Cemetery",
+    "cremation_burials":2,
+    "inhumation_burials":36,
+    "date_range":"6th c",
+    "citation":"Heron 1889; Brown 1915",
+    "museum":"Unknown Location"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.63300566,53.628218 ]
+    },
+    "properties": {
+    "cemetery":"Sheffield's Hill I",
+    "historic_county":"Lincolnshire",
+    "type":"Majority Inhumation Cemetery",
+    "cremation_burials":2,
+    "inhumation_burials":43,
+    "date_range":"6th c",
+    "citation":"Leahy and Williams 2001",
+    "museum":"Unknown Location"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.16363168,53.432254 ]
+    },
+    "properties": {
+    "cemetery":"Morningthorpe",
+    "historic_county":"Lincolnshire",
+    "type":"Majority Inhumation Cemetery",
+    "cremation_burials":9,
+    "inhumation_burials":365,
+    "date_range":"6th c",
+    "citation":"Green et al 1987",
+    "museum":"Unknown Location"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.79505945,52.765176 ]
+    },
+    "properties": {
+    "cemetery":"Stapleford Park",
+    "historic_county":"Leicestershire",
+    "type":"Mixed Cemetery",
+    "cremation_burials":10,
+    "inhumation_burials":2,
+    "date_range":"6th to 7th c",
+    "citation":"Cox 1889",
+    "museum":"Unknown Location"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.3384214,52.089322 ]
+    },
+    "properties": {
+    "cemetery":"Sutton Hoo",
+    "historic_county":"Suffolk",
+    "type":"Mixed Cemetery",
+    "cremation_burials":9,
+    "inhumation_burials":8,
+    "date_range":"6th to 7th c",
+    "citation":"Carver 1998; Carver 2005",
+    "museum":"Unknown Location"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.153782,51.310107 ]
+    },
+    "properties": {
+    "cemetery":"Westbere",
+    "historic_county":"Kent",
+    "type":"Mixed Cemetery",
+    "cremation_burials":2,
+    "inhumation_burials":2,
+    "date_range":"6th to 7th c",
+    "citation":"Jessup 1946",
+    "museum":"Unknown Location"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.1294113,51.596616 ]
+    },
+    "properties": {
+    "cemetery":"Wallingford",
+    "historic_county":"Berkshire",
+    "type":"Mixed Cemetery",
+    "cremation_burials":6,
+    "inhumation_burials":31,
+    "date_range":"6th to 7th c",
+    "citation":"Peake 1913; Leeds 1938",
+    "museum":"Unknown Location"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.43188751,51.895095 ]
+    },
+    "properties": {
+    "cemetery":"Argyll Avenue",
+    "historic_county":"Bedfordshire",
+    "type":"Mixed Cemetery",
+    "cremation_burials":8,
+    "inhumation_burials":45,
+    "date_range":"6th to 7th c",
+    "citation":"Austin 1928",
+    "museum":"Unknown Location"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.8566959,52.159887 ]
+    },
+    "properties": {
+    "cemetery":"Bidford",
+    "historic_county":"Warwickshire",
+    "type":"Majority Inhumation Cemetery",
+    "cremation_burials":30,
+    "inhumation_burials":180,
+    "date_range":"6th to 7th c",
+    "citation":"Humphreys et al 1923; Booth and Hodgson 1990",
+    "museum":"Unknown Location"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.6989839,51.700159 ]
+    },
+    "properties": {
+    "cemetery":"Lechlade",
+    "historic_county":"Gloucestershire",
+    "type":"Majority Inhumation Cemetery",
+    "cremation_burials":32,
+    "inhumation_burials":217,
+    "date_range":"6th to 7th c",
+    "citation":"Boyle et al 1998",
+    "museum":"Unknown Location"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.1288481,52.057301 ]
+    },
+    "properties": {
+    "cemetery":"Hadleigh Road",
+    "historic_county":"Suffolk",
+    "type":"Majority Inhumation Cemetery",
+    "cremation_burials":12,
+    "inhumation_burials":150,
+    "date_range":"6th to 7th c",
+    "citation":"Layard 1907a; 1907b",
+    "museum":"Unknown Location"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.41318326,52.99533 ]
+    },
+    "properties": {
+    "cemetery":"Sleaford",
+    "historic_county":"Lincolnshire",
+    "type":"Majority Inhumation Cemetery",
+    "cremation_burials":6,
+    "inhumation_burials":400,
+    "date_range":"6th to 7th c",
+    "citation":"Thomas 1887",
+    "museum":"Unknown Location"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.43538644,52.715721 ]
+    },
+    "properties": {
+    "cemetery":"North Runcton",
+    "historic_county":"Norfolk",
+    "type":"Mixed Cemetery",
+    "cremation_burials":4,
+    "inhumation_burials":2,
+    "date_range":"6th to Early 7th c",
+    "citation":"Clarke 1939",
+    "museum":"Unknown Location"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.1191546,52.064754 ]
+    },
+    "properties": {
+    "cemetery":"Boss Hall",
+    "historic_county":"Suffolk",
+    "type":"Majority Inhumation Cemetery",
+    "cremation_burials":5,
+    "inhumation_burials":22,
+    "date_range":"6th to Early 7th c",
+    "citation":"Newman 1993",
+    "museum":"Unknown Location"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.65325047,51.928407 ]
+    },
+    "properties": {
+    "cemetery":"Leighton Buzzard II",
+    "historic_county":"Bedfordshire",
+    "type":"Majority Inhumation Cemetery",
+    "cremation_burials":3,
+    "inhumation_burials":22,
+    "date_range":"6th to Early 7th c",
+    "citation":"Unpublished",
+    "museum":"Unknown Location"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.1460684,51.091392 ]
+    },
+    "properties": {
+    "cemetery":"Worthy Park",
+    "historic_county":"Hampshire",
+    "type":"Mixed Cemetery",
+    "cremation_burials":46,
+    "inhumation_burials":95,
+    "date_range":"6th to Mid-7th c",
+    "citation":"Hawkes and Granger 2003",
+    "museum":"Unknown Location"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.93581823,52.736754 ]
+    },
+    "properties": {
+    "cemetery":"Spong Hill",
+    "historic_county":"Norfolk",
+    "type":"Majority Cremation Cemetery",
+    "cremation_burials":2484,
+    "inhumation_burials":57,
+    "date_range":"Early 5th to 7th c",
+    "citation":"Jones 1974; Hills 1977; Hills and Penn 1980; Healy 1988; Hills et al 1984; 1987; 1993; McKinley 1994; Picket 1995; Hills and Lucy 2013",
+    "museum":"Unknown Location"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.51173607,51.744737 ]
+    },
+    "properties": {
+    "cemetery":"Springfield Lyons",
+    "historic_county":"Essex",
+    "type":"Mixed Cemetery",
+    "cremation_burials":100,
+    "inhumation_burials":100,
+    "date_range":"Early 5th to 7th c",
+    "citation":"Tyler 1996; Tyler and Major 2005",
+    "museum":"Unknown Location"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.70056374,52.236968 ]
+    },
+    "properties": {
+    "cemetery":"Westgarth",
+    "historic_county":"Suffolk",
+    "type":"Majority Inhumation Cemetery",
+    "cremation_burials":4,
+    "inhumation_burials":63,
+    "date_range":"Early 5th to 7th c",
+    "citation":"West 1988",
+    "museum":"Unknown Location"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.1629647,51.656204 ]
+    },
+    "properties": {
+    "cemetery":"Berinsfield",
+    "historic_county":"Oxfordshire",
+    "type":"Majority Inhumation Cemetery",
+    "cremation_burials":2,
+    "inhumation_burials":103,
+    "date_range":"Early 5th to 7th c",
+    "citation":"Boyle et al 1995",
+    "museum":"Unknown Location"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.2944025,51.663361 ]
+    },
+    "properties": {
+    "cemetery":"Abingdon I",
+    "historic_county":"Berkshire",
+    "type":"Mixed Cemetery",
+    "cremation_burials":82,
+    "inhumation_burials":119,
+    "date_range":"Early 5th to Late 6th c",
+    "citation":"Leeds and Harden 1936",
+    "museum":"Ashmolean Museum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.41033377,51.499551 ]
+    },
+    "properties": {
+    "cemetery":"Mucking II",
+    "historic_county":"Essex",
+    "type":"Majority Cremation Cemetery",
+    "cremation_burials":468,
+    "inhumation_burials":282,
+    "date_range":"Early 5th to Late 7th c",
+    "citation":"Jones 1974; Hamerow 1993; Hirst and Clark 2009",
+    "museum":"Museum of London"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.2974103,52.580647 ]
+    },
+    "properties": {
+    "cemetery":"Caistor-by-Norwich",
+    "historic_county":"Norfolk",
+    "type":"Majority Cremation Cemetery",
+    "cremation_burials":379,
+    "inhumation_burials":60,
+    "date_range":"Late 4th to Early 7th c",
+    "citation":"Myres and Green 1973; Hines 1990b; Wilson 1992",
+    "museum":"Unknown Location"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.6134766,52.224073 ]
+    },
+    "properties": {
+    "cemetery":"Wasperton",
+    "historic_county":"Warwickshire",
+    "type":"Majority Inhumation Cemetery",
+    "cremation_burials":26,
+    "inhumation_burials":215,
+    "date_range":"Late 4th/5th to 7th c",
+    "citation":"Carver et al 2009",
+    "museum":"Unknown Location"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.60580991,51.263332 ]
+    },
+    "properties": {
+    "cemetery":"Hollingbourne",
+    "historic_county":"Kent",
+    "type":"Mixed Cemetery",
+    "cremation_burials":8,
+    "inhumation_burials":2,
+    "date_range":"Late 5th to 6th c",
+    "citation":"Grove 1952",
+    "museum":"Unknown Location"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.510317,51.213978 ]
+    },
+    "properties": {
+    "cemetery":"Andover",
+    "historic_county":"Hampshire",
+    "type":"Mixed Cemetery",
+    "cremation_burials":87,
+    "inhumation_burials":67,
+    "date_range":"Late 5th to 6th c",
+    "citation":"Cook and Dacre 1985",
+    "museum":"Unknown Location"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.33236713,51.439974 ]
+    },
+    "properties": {
+    "cemetery":"Northfleet",
+    "historic_county":"Kent",
+    "type":"Mixed Cemetery",
+    "cremation_burials":15,
+    "inhumation_burials":20,
+    "date_range":"Late 5th to 6th c",
+    "citation":"Philip 1914; Burchell and Brailsford 1948",
+    "museum":"Unknown Location"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.64178,51.614582 ]
+    },
+    "properties": {
+    "cemetery":"Watchfield",
+    "historic_county":"Berkshire",
+    "type":"Majority Inhumation Cemetery",
+    "cremation_burials":2,
+    "inhumation_burials":43,
+    "date_range":"Late 5th to 6th c",
+    "citation":"Scull 1992",
+    "museum":"Unknown Location"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.64840222,53.001832 ]
+    },
+    "properties": {
+    "cemetery":"Loveden Hill",
+    "historic_county":"Lincolnshire",
+    "type":"Majority Cremation Cemetery",
+    "cremation_burials":1790,
+    "inhumation_burials":47,
+    "date_range":"Late 5th to 7th c",
+    "citation":"Fennell 1964",
+    "museum":"Unknown Location"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.87292662,50.931709 ]
+    },
+    "properties": {
+    "cemetery":"Apple Down",
+    "historic_county":"Sussex",
+    "type":"Mixed Cemetery",
+    "cremation_burials":138,
+    "inhumation_burials":121,
+    "date_range":"Late 5th to 7th c",
+    "citation":"Down and Welch 1990",
+    "museum":"Unknown Location"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.5133695,52.178676 ]
+    },
+    "properties": {
+    "cemetery":"Snape",
+    "historic_county":"Suffolk",
+    "type":"Mixed Cemetery",
+    "cremation_burials":575,
+    "inhumation_burials":575,
+    "date_range":"Late 5th to 7th c",
+    "citation":"West and Owles 1973; Carnegie and Filmer-Sankey 1993; Filmer-Sankey and Pestle 2001",
+    "museum":"Unknown Location"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.7789608,51.320897 ]
+    },
+    "properties": {
+    "cemetery":"Pewsey",
+    "historic_county":"Wiltshire",
+    "type":"Majority Inhumation Cemetery",
+    "cremation_burials":3,
+    "inhumation_burials":124,
+    "date_range":"Late 5th toEarly 6th c",
+    "citation":"Annable and Eagles 2010",
+    "museum":"Unknown Location"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.54099158,52.417663 ]
+    },
+    "properties": {
+    "cemetery":"Eriswell",
+    "historic_county":"Suffolk",
+    "type":"Majority Inhumation Cemetery",
+    "cremation_burials":17,
+    "inhumation_burials":426,
+    "date_range":"Late 5th toEarly 7th c",
+    "citation":"Caruth and Anderson 2005",
+    "museum":"Unknown Location"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.778886,50.736403 ]
+    },
+    "properties": {
+    "cemetery":"Christchurch",
+    "historic_county":"Hampshire",
+    "type":"Majority Inhumation Cemetery",
+    "cremation_burials":4,
+    "inhumation_burials":30,
+    "date_range":"Late 6th to 7th c",
+    "citation":"Jarvis 1983; Davies 1984",
+    "museum":"Unknown Location"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.28099644,52.195469 ]
+    },
+    "properties": {
+    "cemetery":"Little Wilbraham",
+    "historic_county":"Cambridgeshire",
+    "type":"Mixed Cemetery",
+    "cremation_burials":135,
+    "inhumation_burials":193,
+    "date_range":"Mid-5th to 6th c",
+    "citation":"Neville 1852; Lethbridge and Carter 1928",
+    "museum":"Unknown Location"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.232363,52.167368 ]
+    },
+    "properties": {
+    "cemetery":"Churchover",
+    "historic_county":"Northamptonshire",
+    "type":"Majority Inhumation Cemetery",
+    "cremation_burials":1,
+    "inhumation_burials":7,
+    "date_range":"Mid-5th to 6th c",
+    "citation":"Bloxam 1840; Morris 1959",
+    "museum":"Unknown Location"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.20072762,52.62099 ]
+    },
+    "properties": {
+    "cemetery":"Welbeck Hill",
+    "historic_county":"Northamptonshire",
+    "type":"Majority Inhumation Cemetery",
+    "cremation_burials":5,
+    "inhumation_burials":72,
+    "date_range":"Mid-5th to 6th c",
+    "citation":"Unpublished",
+    "museum":"Unknown Location"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.10748959,52.208587 ]
+    },
+    "properties": {
+    "cemetery":"Cambridge I",
+    "historic_county":"Cambridgeshire",
+    "type":"Mixed Cemetery",
+    "cremation_burials":102,
+    "inhumation_burials":36,
+    "date_range":"Mid-5th to Early 7th c",
+    "citation":"Walker 1912; Fox 1923",
+    "museum":"Cambridge Museum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.42200234,52.547724 ]
+    },
+    "properties": {
+    "cemetery":"Nassington",
+    "historic_county":"Northamptonshire",
+    "type":"Majority Inhumation Cemetery",
+    "cremation_burials":3,
+    "inhumation_burials":65,
+    "date_range":"Mid-5th to Late 6th c",
+    "citation":"Leeds and Atkinson 1944",
+    "museum":"Unknown Location"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.064313636,50.854146 ]
+    },
+    "properties": {
+    "cemetery":"Glynde",
+    "historic_county":"Sussex",
+    "type":"Mixed Cemetery",
+    "cremation_burials":7,
+    "inhumation_burials":8,
+    "date_range":"Mid-5th to Mid-6th c",
+    "citation":"Griffith 1883",
+    "museum":"Unknown Location"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.62882402,53.850194 ]
+    },
+    "properties": {
+    "cemetery":"Sancton",
+    "historic_county":"Yorkshire",
+    "type":"Majority Cremation Cemetery",
+    "cremation_burials":500,
+    "inhumation_burials":100,
+    "date_range":"Mid-5th to Mid-7th",
+    "citation":"Sheppard 1909; Myres and Southern 1973; Timby 1993",
+    "museum":"Unknown Location"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.68765658,52.738864 ]
+    },
+    "properties": {
+    "cemetery":"Market Overton II",
+    "historic_county":"Rutland",
+    "type":"Mixed Cemetery",
+    "cremation_burials":25,
+    "inhumation_burials":2,
+    "date_range":"Mid-6th to Early 7th c",
+    "citation":"Crowther-Beynon and Leeds 1911",
+    "museum":"Unknown Location"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.36652284,52.317876 ]
+    },
+    "properties": {
+    "cemetery":"Soham C",
+    "historic_county":"Cambridgeshire",
+    "type":"Majority Inhumation Cemetery",
+    "cremation_burials":2,
+    "inhumation_burials":24,
+    "date_range":"Mid-6th to Early 7th c",
+    "citation":"Lethbridge 1931-2",
+    "museum":"Unknown Location"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.3065776,54.596595 ]
+    },
+    "properties": {
+    "cemetery":"Norton-on-Tees",
+    "historic_county":"Durham",
+    "type":"Majority Inhumation Cemetery",
+    "cremation_burials":3,
+    "inhumation_burials":117,
+    "date_range":"Mid-6th to Early 7th c",
+    "citation":"Sherlock and Welch 1992",
+    "museum":"Unknown Location"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.4407375,52.619737 ]
+    },
+    "properties": {
+    "cemetery":"Brundall II",
+    "historic_county":"Norfolk",
+    "type":"Mixed Cemetery",
+    "cremation_burials":4,
+    "inhumation_burials":1,
+    "date_range":"Unknown",
+    "citation":"Johnson 1926; Clarke 1941",
+    "museum":"Unknown Location"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.7944298,51.712053 ]
+    },
+    "properties": {
+    "cemetery":"Fairford",
+    "historic_county":"Gloucestershire",
+    "type":"Majority Inhumation Cemetery",
+    "cremation_burials":4,
+    "inhumation_burials":140,
+    "date_range":"Unknown",
+    "citation":"Wylie 1856",
+    "museum":"Unknown Location"
+    }
+  }
+]
+}
